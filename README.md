@@ -108,6 +108,16 @@ lifting.
 Solves for broad work that can be parallelized without asking the most expensive
 model to do every scan and every edit itself.
 
+### [`/token-saver`](skills/token-saver/README.md)
+
+Reduce token use inside Codex or Claude without changing your normal workflow:
+try local code first, select only the passages a request needs, continue from
+the last accepted result instead of the whole conversation, and pick the
+least expensive capable path for each step.
+
+Solves for plan-limit pressure and long, expensive chats. Adapted from Nate B.
+Jones' token-saver skill.
+
 ### [`/stay-within-limits`](skills/stay-within-limits/README.md)
 
 Check current 5-hour and weekly usage before substantial work and between

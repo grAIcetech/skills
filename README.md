@@ -118,6 +118,15 @@ least expensive capable path for each step.
 Solves for plan-limit pressure and long, expensive chats. Adapted from Nate B.
 Jones' token-saver skill.
 
+### [`/last30days`](skills/last30days/README.md)
+
+Produce a fast, recency-scoped research brief (roughly the last 30 days)
+before writing a plan on anything where the field moves fast.
+
+Solves for plans grounded in stale priors: a 5-minute recency pass surfaces
+what changed, new/better tools, and community gotchas before the real plan
+gets written.
+
 ### [`/stay-within-limits`](skills/stay-within-limits/README.md)
 
 Check current 5-hour and weekly usage before substantial work and between

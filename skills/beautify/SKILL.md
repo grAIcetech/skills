@@ -66,6 +66,15 @@ a valid answer.
    equity)? If an inherited rule ever conflicts with the emotional outcome, which one
    wins? **This is the section most briefs skip — never skip it here**, and don't let it
    default to zero constraints without the user explicitly saying so.
+   **"Full freedom" is not a finished answer** — briefs that grant blanket freedom over
+   palette/type/motion make every executing model fall back to the same default taste
+   (in testing, three unrelated briefs written this way produced three near-identical
+   quiet sepia pages). Before leaving this round, the brief must lock: (a) a palette
+   direction with at least 2 anchor colors — hex codes, or a named reference image to
+   sample from; and (b) ONE signature motion behavior — what moves, when, and roughly
+   how fast. If the user genuinely wants to delegate the palette, capture an energy
+   register instead (bright/maximal · dark/restrained · warm/soft · vivid/electric) so
+   the executor can't silently default.
 6. **Imagery standard** — Real assets first, rules for any generated imagery, and (if a
    physical product) the material/lighting details that make it read as real rather
    than generic stock or flat vector art.
@@ -146,6 +155,13 @@ truth" is the one failure mode this method treats as disqualifying.
   taste + boundaries, not a blank check. If the user genuinely wants to hand over
   everything, the CREATIVE FREEDOM section still names what stays (usually just the
   name/logo/product truths) rather than being left empty.
+- **The quiet-sepia register is named AI slop.** "Dark warm-neutral ground + one brass/
+  gold accent + confident serif + italic emotional word" is the same class of default
+  as the purple-gradient-SaaS look — it's where every model lands when a brief
+  under-specifies color and motion. If the emerging palette is a single warm-neutral
+  family with no saturated accent, challenge it once before accepting: "this is
+  currently landing in the default sepia register — is that a choice, or should we
+  lock something more alive?"
 - Anti-goals stay short. If a round produces more than ~6, ask which ones actually
   happened before (a real regret) instead of listing generic worries.
 - Don't skip the process/approval-gate round even for a "just mock something up"

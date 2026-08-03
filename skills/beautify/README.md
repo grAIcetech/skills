@@ -15,6 +15,11 @@ instead of a blank page.
   truth, price, or claim; unanswered fields are marked, not guessed.
 - Delivers the finished brief as one copy-paste block, ready to paste into an AI
   design tool (Ploy, v0, Lovable, etc.) or hand to a coding agent (Codex, Claude Code).
+- Suggests starting inspiration sites during the visual-references round from a bundled
+  seed list (`inspiration.md`, starts with [motionsites.ai](https://motionsites.ai/) for
+  motion-forward, interaction-led design) — and grows that list with your own sites as
+  you use it, so later sessions in the same project start with a fuller, more personal
+  set of references.
 
 ## Why
 

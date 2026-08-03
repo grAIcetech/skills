@@ -51,7 +51,16 @@ a valid answer.
    dressed up as a fact. Then: the one action the page should drive.
 4. **Visual references** — 2–4 concrete references (a site, a Figma frame, packaging,
    a lighting reference — anything). For each: what specifically to *borrow*, not "make
-   it look like this."
+   it look like this." Before asking, read `inspiration.md` next to this file and offer
+   its entries as starting suggestions if the user doesn't already have references in
+   mind — it ships seeded with [motionsites.ai](https://motionsites.ai/) (motion-forward,
+   interaction-led site design: scroll-triggered reveals, cursor-reactive detail,
+   kinetic type — a good default when a project should feel alive rather than static).
+   These are candidates to react to, not a ruling — "borrow the X, skip the rest" is a
+   valid answer. **This list is meant to grow with use:** after the round, if the user
+   named a site not already in it, ask whether it's worth keeping for next time and
+   append it (name, URL, one line on what's worth borrowing) so future `/beautify` runs
+   in this project start with a fuller, more personal list.
 5. **Creative freedom** — What is genuinely being handed over (palette, layout, type,
    motion, section order...) vs. what must be preserved (logo, a proven motif, brand
    equity)? If an inherited rule ever conflicts with the emotional outcome, which one
